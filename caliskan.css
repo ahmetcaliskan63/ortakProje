@@ -1,0 +1,15 @@
+p {
+  color: red;
+}
+.menu {
+  color: purple;
+}
+.menu ul {
+  color: blue;
+}
+.menu ul li {
+  font-size: 30px;
+}
+.menu ul li a {
+  padding-top: 20px;
+}
